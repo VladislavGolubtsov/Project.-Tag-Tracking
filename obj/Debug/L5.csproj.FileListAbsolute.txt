@@ -1,0 +1,38 @@
+D:\p1470n\university\CSH\Л5\L5\bin\Debug\L5.exe.config
+D:\p1470n\university\CSH\Л5\L5\bin\Debug\L5.exe
+D:\p1470n\university\CSH\Л5\L5\bin\Debug\L5.pdb
+D:\p1470n\university\CSH\Л5\L5\obj\Debug\L5.csproj.AssemblyReference.cache
+D:\p1470n\university\CSH\Л5\L5\obj\Debug\L5.MainForm.resources
+D:\p1470n\university\CSH\Л5\L5\obj\Debug\L5.Properties.Resources.resources
+D:\p1470n\university\CSH\Л5\L5\obj\Debug\L5.csproj.GenerateResource.cache
+D:\p1470n\university\CSH\Л5\L5\obj\Debug\L5.csproj.CoreCompileInputs.cache
+D:\p1470n\university\CSH\Л5\L5\obj\Debug\L5.exe
+D:\p1470n\university\CSH\Л5\L5\obj\Debug\L5.pdb
+D:\p1470n\university\CSH\Л5\L5\bin\Debug\EntityFramework.dll
+D:\p1470n\university\CSH\Л5\L5\bin\Debug\EntityFramework.SqlServer.dll
+D:\p1470n\university\CSH\Л5\L5\bin\Debug\System.Data.SQLite.dll
+D:\p1470n\university\CSH\Л5\L5\bin\Debug\System.Data.SQLite.EF6.dll
+D:\p1470n\university\CSH\Л5\L5\bin\Debug\System.Data.SQLite.Linq.dll
+D:\p1470n\university\CSH\Л5\L5\bin\Debug\EntityFramework.xml
+D:\p1470n\university\CSH\Л5\L5\bin\Debug\EntityFramework.SqlServer.xml
+D:\p1470n\university\CSH\Л5\L5\bin\Debug\System.Data.SQLite.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\bin\Debug\L5.exe.config
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\bin\Debug\L5.exe
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\bin\Debug\L5.pdb
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\bin\Debug\EntityFramework.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\bin\Debug\System.Data.SQLite.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\bin\Debug\EntityFramework.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\bin\Debug\System.Data.SQLite.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\obj\Debug\L5.csproj.AssemblyReference.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\obj\Debug\L5.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\obj\Debug\L5.MainForm.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\obj\Debug\L5.Properties.Resources.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\obj\Debug\L5.csproj.GenerateResource.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\obj\Debug\L5.csproj.CoreCompileInputs.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\obj\Debug\L5.csproj.CopyComplete
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\obj\Debug\L5.exe
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\лабы\sql база\L5\obj\Debug\L5.pdb

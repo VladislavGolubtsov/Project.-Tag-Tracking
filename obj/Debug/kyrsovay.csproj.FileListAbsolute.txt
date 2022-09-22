@@ -1,0 +1,110 @@
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\bin\Debug\L5.exe.config
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\bin\Debug\L5.exe
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\bin\Debug\L5.pdb
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\bin\Debug\EntityFramework.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\bin\Debug\System.Data.SQLite.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\bin\Debug\EntityFramework.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\bin\Debug\System.Data.SQLite.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\obj\Debug\kyrsovay.csproj.AssemblyReference.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\obj\Debug\kyrsovay.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\obj\Debug\L5.MainForm.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\obj\Debug\L5.Properties.Resources.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\obj\Debug\kyrsovay.csproj.GenerateResource.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\obj\Debug\kyrsovay.csproj.CoreCompileInputs.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\obj\Debug\kyrsovay.csproj.CopyComplete
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\obj\Debug\L5.exe
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai\obj\Debug\L5.pdb
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\bin\Debug\L5.exe.config
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\bin\Debug\L5.exe
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\bin\Debug\L5.pdb
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\bin\Debug\EntityFramework.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\bin\Debug\System.Data.SQLite.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\bin\Debug\EntityFramework.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\bin\Debug\System.Data.SQLite.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\obj\Debug\kyrsovay.csproj.AssemblyReference.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\obj\Debug\kyrsovay.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\obj\Debug\L5.MainForm.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\obj\Debug\L5.Properties.Resources.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\obj\Debug\kyrsovay.csproj.GenerateResource.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\obj\Debug\kyrsovay.csproj.CoreCompileInputs.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\obj\Debug\kyrsovay.csproj.CopyComplete
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\obj\Debug\L5.exe
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test\obj\Debug\L5.pdb
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\bin\Debug\L5.exe.config
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\bin\Debug\L5.exe
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\bin\Debug\L5.pdb
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\bin\Debug\EntityFramework.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\bin\Debug\System.Data.SQLite.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\bin\Debug\EntityFramework.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\bin\Debug\System.Data.SQLite.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\obj\Debug\kyrsovay.csproj.AssemblyReference.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\obj\Debug\kyrsovay.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\obj\Debug\L5.MainForm.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\obj\Debug\L5.Properties.Resources.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\obj\Debug\kyrsovay.csproj.GenerateResource.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\obj\Debug\kyrsovay.csproj.CoreCompileInputs.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\obj\Debug\kyrsovay.csproj.CopyComplete
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\obj\Debug\L5.exe
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\obj\Debug\L5.pdb
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\obj\Debug\L5.Form2.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия\obj\Debug\L5.Form3.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\bin\Debug\L5.exe.config
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\bin\Debug\L5.exe
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\bin\Debug\L5.pdb
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\bin\Debug\EntityFramework.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\bin\Debug\System.Data.SQLite.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\bin\Debug\EntityFramework.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\bin\Debug\System.Data.SQLite.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\obj\Debug\kyrsovay.csproj.AssemblyReference.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\obj\Debug\kyrsovay.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\obj\Debug\L5.MainForm.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\obj\Debug\L5.Form2.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\obj\Debug\L5.Form3.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\obj\Debug\L5.Properties.Resources.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\obj\Debug\kyrsovay.csproj.GenerateResource.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\obj\Debug\kyrsovay.csproj.CoreCompileInputs.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\obj\Debug\kyrsovay.csproj.CopyComplete
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\obj\Debug\L5.exe
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\obj\Debug\L5.pdb
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\obj\Debug\L5.Form4.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Kursovai test — копия — копия\obj\Debug\L5.Form5.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\bin\Debug\L5.exe.config
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\bin\Debug\L5.exe
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\bin\Debug\L5.pdb
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\bin\Debug\EntityFramework.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\bin\Debug\System.Data.SQLite.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\bin\Debug\EntityFramework.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\bin\Debug\System.Data.SQLite.xml
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\obj\Debug\kyrsovay.csproj.AssemblyReference.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\obj\Debug\kyrsovay.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\obj\Debug\L5.MainForm.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\obj\Debug\L5.Form2.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\obj\Debug\L5.Form3.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\obj\Debug\L5.Form4.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\obj\Debug\L5.Form5.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\obj\Debug\L5.Properties.Resources.resources
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\obj\Debug\kyrsovay.csproj.GenerateResource.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\obj\Debug\kyrsovay.csproj.CoreCompileInputs.cache
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\obj\Debug\kyrsovay.csproj.CopyComplete
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\obj\Debug\L5.exe
+C:\Users\vladg\Desktop\Лаб. работы\Моделирование систем\Курсовая\Курсовая Голубцов\obj\Debug\L5.pdb
